@@ -1,3 +1,5 @@
+![logo](kyra/media/Kyra%20logo%20design.png)
+
 # KYRA
 ________
 A granular Synthesizer (Standalone app) on basis of MaxMSP. 
